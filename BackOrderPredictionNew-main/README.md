@@ -123,15 +123,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 
-## Support or Contact
-
-Aniket Patil - [@patil8624972776@gmail.com] (patil8624972776@gmail.com)
-
-Suraj Kawathale - [@surajkawathale0122@gmail.com] (surajkawathale0122@gmail.com)
-
-Ankita yetale - [@ankiyetale7997@gmail.com] (ankiyetale7997@gmail.com)
-
-
 ## Acknowledgements
 
 We'd like to extend our gratitude to all individuals and organizations who have played a role in the development and success of this project. Your support, whether through contributions, inspiration, or encouragement, has been invaluable. Thank you for being a part of our journey.
