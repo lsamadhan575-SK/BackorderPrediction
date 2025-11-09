@@ -47,9 +47,9 @@ def predict_datapoint():
     predict_pipeline=PredictPipeline()
     logging.info("Prediction Started")
     results=predict_pipeline.predict(pred_df)
-    #print("after Prediction")
-    def output(result):
-        if result[0]==0:
+    print("after Prediction",results)
+    def output(results):
+        if results[0]==0:
             logging.info("Output : No")
             return "No it should not trigger the backorder"
         else:
